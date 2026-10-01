@@ -1,8 +1,8 @@
 
-# Syntechhub Number Guessing Game
+# Syntecxhub Number Guessing Game
 
 A Python-based Number Guessing Game developed
-as part of the Syntechhub internship program.
+as part of the Syntecxhub internship program.
 
 ## Features
 - Random number generation
@@ -28,4 +28,4 @@ python number_guessing_game.py
 A. Sakshitha
 
 ## Internship
-Syntechhub Internship Program
+Syntecxhub Internship Program
